@@ -12,7 +12,7 @@ When in production, application can be launched via `yarn start`. It will use th
 
 ### Environment variables
 
-`API_URL` - the URL of the backend API. _Required_
+`API_HOST` - the URL of the backend API. _Required_
 
 ## Development server
 
